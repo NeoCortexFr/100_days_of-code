@@ -4,7 +4,7 @@
 ### *Je coderai au moins une heure par jour durant les 100 prochains jours.*
 
 #### Date de Démarrage
-25 juillet 2017. [Mettez Votre DATE ici]
+07 février 2021
 
 ## Règles supplémentaires 
 
