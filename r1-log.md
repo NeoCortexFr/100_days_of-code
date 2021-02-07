@@ -4,6 +4,6 @@ Le journal de mon challenge #100DaysOfCode. Démarré le Dimanche 7 Février 202
 ## Log
 
 ### R1D1 
-
+Retour sur du basic HTML. Compléter à 100%
 
 ### R1D2
