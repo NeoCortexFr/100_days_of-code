@@ -8,3 +8,6 @@ Retour sur du basic HTML. Compléter à 100%
 
 ### R1D2
 Retour sur du basic CSS. Cmpléter à 100%
+
+### R1D3
+CSS complet. Etape projet 1 ok.
